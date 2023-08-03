@@ -1,0 +1,3 @@
+[submodule "papyrus_protocol/core_contracts/lib/forge-std"]
+	path = papyrus_protocol/core_contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
